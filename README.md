@@ -25,3 +25,4 @@
 <img align="left" width="370px" src="https://github-readme-stats.vercel.app/api/top-langs?username=davipbr15&show_icons=true&theme=dark&locale=en&layout=compact" alt="davipbr15" /></p>
 </div>
 
+  ![Snake animation](https://github.com/Davipbr15/Davipbr15/blob/output/github-contribution-grid-snake.svg)
