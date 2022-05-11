@@ -5,7 +5,7 @@
 <p>I'm a web developer usign Javascript Stack and i'm in the technical computer course, I intend to be in Software Engineering in the future, to deepen my knowledge of software.</p>
 <p>I really like programming and the logic behind the code makes me think about the various possibilities of things I can do, and from that, I try to make myself able to do it</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davipbr15&label=Profile%20views&color=3e4041&style=plastic" alt="davipbr15" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=davipbr15&label=Profile%20views&color=3e4041&style=plastic&theme=monokai" alt="davipbr15" /> </p>
 <p>
 <h2>Find me:</h2>
 <a href="https://wa.link/02mvpq"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </img></a>
