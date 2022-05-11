@@ -16,14 +16,12 @@
 </p>
 <h2 align="left">Trophies:</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davipbr15" alt="davipbr15" /></a> </p>
-
+<div>
 <h2 align="left">Some of my stats:</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=davipbr15&show_icons=true&theme=dark"/>
-<p><img align="right" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=davipbr15&theme=dark" alt="davipbr15" /></p>
-<p><img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=davipbr15&show_icons=true&theme=dark&locale=en&layout=compact" alt="davipbr15" /></p>
-
-<details align="right">
-    <summary>More about me</summary>
-More about me here coming soon..
-</details>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=davipbr15&show_icons=true&theme=dark"/>
+    </p>
+<p><img align="right" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=davipbr15&theme=dark" alt="davipbr15" />
+<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=davipbr15&show_icons=true&theme=dark&locale=en&layout=compact" alt="davipbr15" /></p>
+</div>
 
