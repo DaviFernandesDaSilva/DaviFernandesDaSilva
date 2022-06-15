@@ -24,7 +24,7 @@
 <p><img align="right" width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=davipbr15&theme=dark" alt="davipbr15" />
 <img align="left" width="370px" src="https://github-readme-stats.vercel.app/api/top-langs?username=davipbr15&show_icons=true&theme=dark&locale=en&layout=compact" alt="davipbr15" /></p>
 </div>
-<br>
-<img align="left" width="100px" src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png"/>
+
+<img align="right" width="100px" src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png"/>
 
   ![Snake animation](https://github.com/Davipbr15/Davipbr15/blob/output/github-contribution-grid-snake.svg)
