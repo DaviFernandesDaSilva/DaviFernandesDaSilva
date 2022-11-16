@@ -2,8 +2,7 @@
 <h3 align="center">A student developer from Brazil with a passion for learning</h3>
 
 <h1>About me:</h1>
-<p>I'm a web developer learning to use Javascript Stack and i'm in the technical computer course, I intend to be in Software Engineering in the future, to deepen my knowledge of software.</p>
-<p>I really like programming and the logic behind the code makes me think about the various possibilities of things I can do, and from that, I try to make myself able to do it</p>
+<p>I'm a web developer learning to use Javascript Stack</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davipbr15&label=Profile%20views&color=3e4041&style=flat" alt="davipbr15" /> </p>
 <p>
