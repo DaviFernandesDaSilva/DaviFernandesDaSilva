@@ -18,7 +18,7 @@
 <div>
 <h2 align="left">Some of my stats:</h2>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davipbr15&show_icons=true&theme=dark"/>
+        <img src="https://github-readme-stats.vercel.app/api/?username=davipbr15&show_icons=true&theme=dark"/>
     </p>
 <p><img align="right" width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=davipbr15&theme=dark" alt="davipbr15" />
 <img align="left" width="370px" src="https://github-readme-stats.vercel.app/api/top-langs?username=davipbr15&show_icons=true&theme=dark&locale=en&layout=compact" alt="davipbr15" /></p>
