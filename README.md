@@ -33,5 +33,3 @@
 <div align="right">
 <img align="right" width="150px" src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png"/>
 </div>
-
-  ![Snake animation](https://github.com/DaviFernandesDaSilva/DaviFernandesDaSilva/blob/output/github-contribution-grid-snake.svg)
