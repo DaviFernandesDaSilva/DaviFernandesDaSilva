@@ -2,7 +2,9 @@
 <h3 align="center">A student developer from Brazil with a passion for learning</h3>
 
 <h1>About me:</h1>
-<p>I'm a web developer learning to use Javascript Stack & Python Stack</p>
+<p>I'm a passionate web developer just starting my long journey with Javascript and Python stacks.</p>
+<p>I'm diving into web development, learning automation, web scraping, and creating Discord bots. Excited to explore more!</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DaviFernandesDaSilva&label=Profile%20views&color=3e4041&style=flat" alt="davipbr15" /> </p>
 <p>
