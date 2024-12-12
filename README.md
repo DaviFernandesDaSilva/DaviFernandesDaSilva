@@ -43,7 +43,7 @@
             <img src="https://github-readme-stats.vercel.app/api/?username=DaviFernandesDaSilva&show_icons=true&theme=dark" />
         </div>
         <div>
-            <img align="left" height="195px" width="370px" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviFernandesDaSilva&show_icons=true&theme=dark&locale=en&layout=compact" alt="davipbr15" />
+            <img height="195px" width="370px" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviFernandesDaSilva&show_icons=true&theme=dark&locale=en&layout=compact" alt="davipbr15" />
         </div>
         <div>
             <img src="https://github-readme-streak-stats.herokuapp.com?user=DaviFernandesDaSilva&theme=dark&border_radius=4&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=500" alt="GitHub Streak" />
