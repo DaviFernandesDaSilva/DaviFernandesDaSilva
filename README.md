@@ -8,7 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DaviFernandesDaSilva&label=Profile%20views&color=3e4041&style=flat" alt="davipbr15" /> </p>
 <p>
-<h2>Find me:</h2>
+
+<h2>📚 Languages & Tools</h2>
+<p>Python, JavaScript, Java, Node.js, Vue.js, React, HTML, CSS, TailwindCSS.</p>
+    
+<h2> 🔗 Find me:</h2>
 <a href="https://wa.link/02mvpq"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </img></a>
 <a href="mailto:davipbr90@gmail.com?subject=Hello%20Davi!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </img></a>
 <a href="https://www.instagram.com/davii.f/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </img></a>
@@ -18,7 +22,7 @@
 <h2 align="left">Trophies:</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DaviFernandesDaSilva&theme=monokai" alt="davipbr15" /></a> </p>
 <div>
-<h2 align="left">Some of my stats:</h2>
+<h2 align="left"> 📈 Some of my stats:</h2>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/?username=DaviFernandesDaSilva&show_icons=true&theme=dark"/>
     </p>
