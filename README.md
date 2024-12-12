@@ -26,7 +26,7 @@
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/?username=DaviFernandesDaSilva&show_icons=true&theme=dark"/>
     </p>
-<p><img align="left" width="370px" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviFernandesDaSilva&show_icons=true&theme=dark&locale=en&layout=compact" alt="davipbr15" /></p>
+<p><img align="left" height="195" width="370px" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviFernandesDaSilva&show_icons=true&theme=dark&locale=en&layout=compact" alt="davipbr15" /></p>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=DaviFernandesDaSilva&theme=dark&border_radius=4&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=500" alt="GitHub Streak" />
 </div>
 <br><br>
